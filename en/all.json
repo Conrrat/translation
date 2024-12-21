@@ -548,6 +548,10 @@
         "KEYWORDS": "tooltips help support learn tutorial",
         "LABEL": "Show tips on keyboard shortcuts you're currently using in the corner of the screen.",
         "TITLE": "Keyboard Shortcut Tips"
+      },
+      "SIMPLIFIED_UI": {
+        "LABEL": "Simplify the user interface and hide advanced functions.",
+        "TITLE": "Simplified User Interface"
       }
     },
     "KEYBOARD_SHORTCUTS": {
