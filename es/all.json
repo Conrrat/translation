@@ -193,6 +193,7 @@
       },
       "CLOZE_BTN_TOOLTIP": "Tarjetas de completación (rellenar el espacio en blanco)",
       "COPY_IMAGE": "Copiar Imagen",
+      "COPY_IMAGE_AS_TEXT": "Copiar Imagen como Texto con AI",
       "COPY_TEXT": "Copiar como Texto Plano",
       "HIGHLIGHT": "Resaltar",
       "MAKE_IMG_OCC_BTN_TOOLTIP": "Crear Flashcards de Ocultamiento de Imagen",
