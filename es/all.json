@@ -338,6 +338,8 @@
     },
     "EARN_CREDIT": {
       "APPLY_CREDIT": "Aplicar tu crédito",
+      "BALANCE_IN_MONTHS_SG": "{{numMonths}} mes",
+      "BALANCE_IN_MONTHS_PL": "{{numMonths}} meses",
       "COPIED": "¡Copiado!",
       "COPYLINK": "Copiar enlace",
       "CREATE_ACCOUNT": "Crea una cuenta para invitar a tus amigos",
@@ -356,6 +358,7 @@
       "INVITE_TEXT": "Invita amigos y obtén crédito",
       "KEYWORDS": "invitar amigos obtener créditos plan cambiar suscripción remnote gratis enviar tweet email elegir plan aprendizaje de por vida pro desglose de funciones opciones de precios",
       "NOT_CONFIRMED_EMAIL": "(no ha confirmado el correo electrónico)",
+      "REMAINING_MONTHS": "Meses Restantes",
       "SEND_INVITE": "Enviar invitación",
       "SHARE_LINK": "Compartir enlace de invitación",
       "TITLE": "Obtener créditos",
