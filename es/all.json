@@ -48,7 +48,9 @@
     },
     "MENU": {
       "ADD_NESTED_DOCUMENT": "Agregar Documento Anidado",
+      "CHANGE_DOCUMENT_ICON": "Cambiar Icono del Documento",
       "CHANGE_DOCUMENT_STATUS": "Cambiar Estado del Documento",
+      "CHANGE_FOLDER_ICON": "Cambiar Icono de Carpeta",
       "CUSTOMIZE_SPACED_REPETITION": "Personalizar Repetición Espaciada",
       "DELETE": "Eliminar",
       "EDIT_MODE": {
@@ -63,6 +65,7 @@
       },
       "MARK_AS_DOCUMENT": "Marcar como Documento",
       "MOVE": "Mover",
+      "MULTI_SELECTION_FOLDER": "Seleccionar Múltiples Carpetas/Documentos",
       "OPEN_IN_ANOTHER_PANE": "Abrir en Otro Panel",
       "PIN_TO_SIDEBAR": "Fijar en la Barra Lateral",
       "PRINT": "Imprimir",
@@ -336,8 +339,6 @@
       "COPIED": "¡Copiado!",
       "COPYLINK": "Copiar enlace",
       "CREATE_ACCOUNT": "Crea una cuenta para invitar a tus amigos",
-      "CREDIT_BALANCE": "Saldo de Crédito",
-      "CREDIT_BALANCE_TEXT": "Tienes <bold>{{userCredit}}</bold> de crédito restante y has ganado <bold>{{userCreditEarned}}</bold> de crédito en total. {{months}}restantes de RemNote Pro gratis. <br /><br />¡Suscríbete a Pro para empezar a usar tu crédito! No se te cobrará hasta que tu crédito se agote.",
       "EMAIL_PLACEHOLDER": "amigocurioso@gmail.com",
       "ENTER_VALID_EMAIL": "¡Ingresa un correo electrónico válido!",
       "FRIENDS_TITLE": "Amigos",
@@ -358,7 +359,10 @@
       "TITLE": "Obtener créditos",
       "TOAST_RENEW": "Tus créditos se aplicarán automáticamente al renovar tu suscripción actual.",
       "TOAST_SUBSCRIBE": "Tus créditos se aplicarán automáticamente al suscribirte a RemNote Pro. ¡Elige un plan a continuación para comenzar!",
-      "VERIFY_EMAIL": "Para invitar a alguien, verifica primero tu correo electrónico."
+      "TOTAL_MONTHS_EARNED": "Total de Meses de Pro Ganados",
+      "VERIFY_EMAIL": "Para invitar a alguien, verifica primero tu correo electrónico.",
+      "CREDIT_BALANCE": "Saldo de Crédito",
+      "CREDIT_BALANCE_TEXT": "Tienes <bold>{{userCredit}}</bold> de crédito restante y has ganado <bold>{{userCreditEarned}}</bold> de crédito en total. {{months}}restantes de RemNote Pro gratis. <br /><br />¡Suscríbete a Pro para empezar a usar tu crédito! No se te cobrará hasta que tu crédito se agote."
     },
     "EDITOR": {
       "DATES_AND_TIMES": {
