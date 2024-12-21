@@ -637,6 +637,8 @@
       "ENABLE_DUE_CARDS_TITLE": "Insignia de tarjetas pendientes",
       "ENABLE_EMAIL_LABEL": "Recibir notificaciones directamente en tu bandeja de entrada",
       "ENABLE_EMAIL_TITLE": "Activar notificaciones de la comunidad por correo electrónico",
+      "ENABLE_EXAM_TITLE": "Recordatorios de Exámenes",
+      "ENABLE_EXAM_DESCRIPTION": "Recibir correos electrónicos si se retrasa en la preparación de un examen",
       "ENABLE_PUSH_LABEL": "Recibir notificaciones directamente en tu dispositivo",
       "ENABLE_PUSH_TITLE": "Notificaciones push",
       "ENABLE_STREAK_DESCRIPTION": "Recibe recordatorios diarios a las 6 p. m. sobre tu racha de tarjetas de estudio",

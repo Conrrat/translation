@@ -315,6 +315,10 @@
       "VERSION": {
         "KEYWORDS": "version",
         "TITLE": "Application Version"
+      },
+      "NOTIFICATIONS": {
+        "DESCRIPTION": "Send mobile reminders about your daily streak of flashcards. Reminders arrive at 6 p.m. each day, in your local time zone.",
+        "TITLE": "Racha Mobile Notifications"
       }
     },
     "EARN_CREDIT": {
